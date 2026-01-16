@@ -1,0 +1,5 @@
+{
+  "name": "Satelite Anomaly Detection System",
+  "description": "An advanced satellite telemetry monitoring and AI-driven anomaly detection system for aerospace mission control.",
+  "requestFramePermissions": []
+}
